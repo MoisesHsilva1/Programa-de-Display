@@ -1,7 +1,7 @@
 <h1 align="center">Programa de teste de Display</h1>
 
 <h2>Descrição do projeto</h2>
-<p>O projeto foi desenvolvido com o objetivo de aprofundar conhecimentos com Flexbox no CSS. Consiste em uma breve apresentação sobre mim, com algumas das minhas plataformas.</p>
+<p>O projeto simples para desenvolver e enternder os conceitos de display</p>
 
 <h2>Status do Projeto</h2>
 <p align="left">
@@ -12,6 +12,7 @@
 
 - ``CSS 3``
 - ``HTML 5``
+- ``Javascript``
 
 
 <h2>Design</h2>

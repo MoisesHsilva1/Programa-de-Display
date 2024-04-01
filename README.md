@@ -13,3 +13,7 @@
 - ``HTML 5``
 - ``Javascript``
 
+<h2>Projeto em ação:</h2>
+
+![image](https://github.com/MoisesHsilva1/Programa-de-Display/assets/142702205/ba516e94-5a8b-45ca-b384-38980afd4a6a)
+
